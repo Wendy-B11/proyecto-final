@@ -2,14 +2,14 @@
 body {
   font-family: "Open+Sans";
   height: 100vh;
-  background-color: #fff;
+  background-image: url("../imgs/fondo.png");
 
 }
 
 .section-project {
-  padding: 50px 0;
+  padding: 96px 0;
   position: relative;
-  background-color: #fff;
+
 }
 
 .section__title, .section__subtitle {
